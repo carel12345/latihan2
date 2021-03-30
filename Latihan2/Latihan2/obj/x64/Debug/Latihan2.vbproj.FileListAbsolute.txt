@@ -1,0 +1,11 @@
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\Latihan2\Latihan2\bin\x64\Debug\Latihan2.exe
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\Latihan2\Latihan2\bin\x64\Debug\Latihan2.pdb
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\Latihan2\Latihan2\bin\x64\Debug\Latihan2.xml
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\Latihan2\Latihan2\obj\x64\Debug\Latihan2.Form1.resources
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\Latihan2\Latihan2\obj\x64\Debug\Latihan2.Form2.resources
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\Latihan2\Latihan2\obj\x64\Debug\Latihan2.frmkontak.resources
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\Latihan2\Latihan2\obj\x64\Debug\Latihan2.Resources.resources
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\Latihan2\Latihan2\obj\x64\Debug\Latihan2.vbproj.GenerateResource.Cache
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\Latihan2\Latihan2\obj\x64\Debug\Latihan2.exe
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\Latihan2\Latihan2\obj\x64\Debug\Latihan2.xml
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\Latihan2\Latihan2\obj\x64\Debug\Latihan2.pdb

@@ -1,0 +1,11 @@
+c:\users\husky\documents\visual studio 2010\Projects\Latihan2\Latihan2\bin\Debug\Latihan2.exe
+c:\users\husky\documents\visual studio 2010\Projects\Latihan2\Latihan2\bin\Debug\Latihan2.pdb
+c:\users\husky\documents\visual studio 2010\Projects\Latihan2\Latihan2\bin\Debug\Latihan2.xml
+c:\users\husky\documents\visual studio 2010\Projects\Latihan2\Latihan2\obj\x86\Debug\Latihan2.Form1.resources
+c:\users\husky\documents\visual studio 2010\Projects\Latihan2\Latihan2\obj\x86\Debug\Latihan2.Resources.resources
+c:\users\husky\documents\visual studio 2010\Projects\Latihan2\Latihan2\obj\x86\Debug\Latihan2.vbproj.GenerateResource.Cache
+c:\users\husky\documents\visual studio 2010\Projects\Latihan2\Latihan2\obj\x86\Debug\Latihan2.exe
+c:\users\husky\documents\visual studio 2010\Projects\Latihan2\Latihan2\obj\x86\Debug\Latihan2.xml
+c:\users\husky\documents\visual studio 2010\Projects\Latihan2\Latihan2\obj\x86\Debug\Latihan2.pdb
+c:\users\husky\documents\visual studio 2010\Projects\Latihan2\Latihan2\obj\x86\Debug\Latihan2.Form2.resources
+C:\Users\HUSKY\Documents\Visual Studio 2010\Projects\Latihan2\Latihan2\obj\x86\Debug\Latihan2.Form3.resources
